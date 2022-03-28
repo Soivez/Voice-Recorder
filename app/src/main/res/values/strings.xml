@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Voice Recorder</string>
+    <string name="user_id">User ID</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="add">ADD</string>
+    <string name="slash">/</string>
+    <string name="welcome_text">Hi, you need to authorize via VK, press the button below to continue</string>
+    <string name="ok">OK</string>
+    <integer name="com_vk_sdk_AppId">8118598</integer>
+</resources>
